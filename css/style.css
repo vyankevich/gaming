@@ -167,7 +167,6 @@ body {
 
 }
 .main__background1 {
-    height: 66.8125rem;
     width: 100%;
     background: black;
 }
@@ -186,8 +185,8 @@ body {
     transform: rotate(-90deg);
 }
 .content {
-    padding-top: 236px;
-    padding-bottom: 250px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     display: flex;
     justify-content: space-between;
 }
@@ -256,7 +255,6 @@ body {
 .main__background2 {
     margin: 0 auto;
     background: #FDD04A;
-    height: 33.875rem;
 }
 .container {
 }
@@ -288,6 +286,7 @@ body {
     display: flex;
     justify-content:space-between;
     align-items: center;
+    padding-bottom: 100px;
 }
 .logo {
 }
@@ -297,7 +296,7 @@ body {
     margin: 0 auto;
     background-image: url('../img/background3.png');
     background-size: cover;
-    height: 1072px;
+
 }
 .emoji-title {
     padding: 136px 0 22px 0;
@@ -338,6 +337,7 @@ body {
     display: grid;
     grid-template: 1fr 1fr / 1fr 1fr;
     margin: 0 auto;
+    padding-bottom: 100px;
 }
 .title-and-log {
     margin: 0 100px 0 0;
@@ -390,7 +390,6 @@ border-radius: 20px;
 }
 
 .background4 {
-    height: 800px;
     background-color: #000000;
 }
 .new-era {
@@ -406,6 +405,7 @@ border-radius: 20px;
     line-height: 1rem;
     text-transform: uppercase;
     color: #57B8FF; 
+    padding-bottom: 100px;
 }
 
 .new-era-text {
@@ -449,7 +449,6 @@ border-radius: 20px;
 }
 .background6 {
     margin: 0 auto;
-    height: 732px;
     background-color: black;
     background-size: cover;
 
